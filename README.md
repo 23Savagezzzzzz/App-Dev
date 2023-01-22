@@ -1,4 +1,7 @@
 # App-dev
 My first repository
-Add favorite series
-Add favorite movies
+My favorite series of all time is:>breaking bad
+My favorite movie are:
+1.Inception
+2.Nightcrawler
+3.Interstellar
